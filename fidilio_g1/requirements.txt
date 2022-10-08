@@ -1,0 +1,14 @@
+autopep8==1.7.0
+numpy==1.23.2
+pandas==1.4.4
+matplotlib==3.5.3
+beautifulsoup4==4.11.1
+mysql-connector-python==8.0.30
+sqlalchemy==1.4.40
+selenium==4.4.3
+streamlit==1.12.2
+jupyter==1.0.0
+jupytext==1.14.00
+tomli_w==1.0.0
+PyMySQL==1.0.2
+pillow==9.2.0
